@@ -1,0 +1,23 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<Counter/>
+<Counter Increment ="9" />
+
+
+
+<ErrorBoundary>
+        <ChildContent>
+            <ThrowException />
+         </ChildContent>
+         <ErrorContent><h3>das ist eine neue Ausnahme </h3></ErrorContent>
+</ErrorBoundary>
+
+<ErrorHandler>
+<ThrowExceptionHandled/>
+</ErrorHandler>

@@ -1,0 +1,17 @@
+<button class ="btn btn-primary" @onclick="Ausnahme" >AUSNAHME </button>
+
+@code 
+{
+    [CascadingParameter]
+    public ErrorHandler?  Error {get;set;}
+    private void Ausnahme()
+    {
+        try
+        { throw new Exception ("Das ist ein Beispielfehler!!");
+        }
+        catch(Exception ex)
+        {
+            Error?.ProcessErrror (ex); 
+        } 
+    }
+}

@@ -1,0 +1,23 @@
+@page "/logging"
+@inject ILogger<Logging> logger;
+
+
+
+    <PageTitle>Logging</PageTitle>
+    <h1>Logging</h1>
+    <button class="btn btn-primary" @onclick="DemoLogging">Klick MICH!</button>
+
+    @code
+    {
+        private void DemoLogging()
+        {
+        logger.LogTrace("Logger: Trace");
+        logger.LogDebug("Logger: Debug");
+        logger.LogInformation("Logger: Information");
+        logger.LogWarning("Logger: Warning");
+        logger.LogError("Logger: Error");
+        logger.LogCritical("Logger:  Das ist Critical");
+        logger.Log(LogLevel.None, "Logger: None");
+        }
+    
+    }

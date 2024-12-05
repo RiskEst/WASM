@@ -34,7 +34,7 @@ jobs:
         run: dotnet publish Demo.csproj -c Release -p GHPages=true -o dist/Web --nologo
  
       - name: Change base-tag in index.html from / to WASM
-        run: sed -i 's/<base href="\/" \/>/<base href="\/WASM\/"/> /g' dist/Web/index.html
+        run: sed -i 's/<base href="\/" \/>/<base href="\/WASM\/" \/>/g' dist/Web/index.html
       
       # Commit wwwroot to GitHub Pages
       - name: Commit wwwroot to GitHub Pages

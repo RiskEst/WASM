@@ -1,27 +1,31 @@
 name: Deploy to GitHub Pages
-# Run workflow on every push to the master branch
+# Run workflow on every push to the main branch
 on:
   push:
     branches: [ main ]
-  jobs:
+
+jobs:
   deploy-to-github-pages:
-    # use ubuntu-latest image to run steps on
+    # Use ubuntu-latest image to run steps on
     runs-on: ubuntu-latest
     steps:
-   # uses GitHub's checkout action to checkout code form the master branch
-    - uses: actions/checkout@v2
+      # Uses GitHub's checkout action to checkout code from the main branch
+      - uses: actions/checkout@v2
 
-    # sets up .NET Core SDK 3.1
-    - name: Setup .NET Core SDK
-      uses: actions/setup-dotnet@v1
-      with: 
-        dotnet-version: 8.0
-        # publishes Blazor project to the release-folder
-    - name: Publish .NET Core Project
-      run: dotnet publish Demo.csproj -c Release -o release --nologo
-          - name: Commit wwwroot to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: GH_Pages
-        FOLDER: release/wwwroot
+      # Sets up .NET Core SDK 8.0.8
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v1
+        with: 
+          dotnet-version: 8.0.8
+
+      # Publishes Blazor project to the release folder
+      - name: Publish .NET Core Project
+        run: dotnet publish Demo.csproj -c Release -o release --nologo
+
+      # Commits wwwroot to GitHub Pages
+      - name: Commit wwwroot to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.7.2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-Pages
+          FOLDER: release/wwwroot

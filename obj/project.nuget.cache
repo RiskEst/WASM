@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OViF5beuFbU=",
+  "dgSpecHash": "MaoHB1LM+ro=",
   "success": true,
   "projectFilePath": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/Demo.csproj",
   "expectedPackageFiles": [
@@ -31,12 +31,11 @@
     "/Users/janine/.nuget/packages/microsoft.jsinterop/8.0.8/microsoft.jsinterop.8.0.8.nupkg.sha512",
     "/Users/janine/.nuget/packages/microsoft.jsinterop.webassembly/8.0.8/microsoft.jsinterop.webassembly.8.0.8.nupkg.sha512",
     "/Users/janine/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
-    "/Users/janine/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.8/microsoft.net.sdk.webassembly.pack.8.0.8.nupkg.sha512",
+    "/Users/janine/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.11/microsoft.net.sdk.webassembly.pack.8.0.11.nupkg.sha512",
     "/Users/janine/.nuget/packages/system.diagnostics.diagnosticsource/9.0.0/system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
     "/Users/janine/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/Users/janine/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
-    "/Users/janine/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.8.nupkg.sha512"
+    "/Users/janine/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

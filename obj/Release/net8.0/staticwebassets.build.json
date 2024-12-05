@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pwd2CbVaWoER5x1gqS+FGFzdv7L/jxsb0C36sLnWR7Y=",
+  "Hash": "1RmOeWcktv45bOlejCCqu93MWl6JIprGIL+BwR+QaWA=",
   "Source": "Demo",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/dotnet.js"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/dotnet.js"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/dotnet.js.map"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/dotnet.js.map"
     },
     {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.8.fpgcnngikp.js",
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.11.kaccsqf2qb.js",
       "SourceId": "Demo",
       "SourceType": "Computed",
       "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.8.fpgcnngikp.js",
+      "RelativePath": "_framework/dotnet.native.8.0.11.kaccsqf2qb.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/dotnet.native.js"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/dotnet.native.js"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/dotnet.native.wasm"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/dotnet.native.wasm"
     },
     {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.8.tb00q2pnb8.js",
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.11.v4d3uixg8h.js",
       "SourceId": "Demo",
       "SourceType": "Computed",
       "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.8.tb00q2pnb8.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.11.v4d3uixg8h.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/dotnet.runtime.js"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/dotnet.runtime.js"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/dotnet.runtime.js.map"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/dotnet.runtime.js.map"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/icudt_CJK.dat"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/icudt_CJK.dat"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/icudt_EFIGS.dat"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/icudt_EFIGS.dat"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.8/runtimes/browser-wasm/native/icudt_no_CJK.dat"
+      "OriginalItemSpec": "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/icudt_no_CJK.dat"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.wasm",
@@ -4121,6 +4121,25 @@
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.wasm"
     },
     {
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/1jw4fav1yn.gz",
+      "SourceId": "Demo",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
+    },
+    {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/1lkjsb55c3.gz",
       "SourceId": "Demo",
       "SourceType": "Computed",
@@ -4765,25 +4784,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Threading.Thread.wasm"
-    },
-    {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/7kejrno4wk.gz",
-      "SourceId": "Demo",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/7q02nrbegx.gz",
@@ -5584,23 +5584,23 @@
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Reflection.Extensions.wasm"
     },
     {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/fpgcnngikp.gz",
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/ft0q3jcs6x.gz",
       "SourceId": "Demo",
       "SourceType": "Computed",
       "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.8.fpgcnngikp.js.gz",
+      "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.8.fpgcnngikp.js",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.8.fpgcnngikp.js"
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/g3ikmfzbi8.gz",
@@ -5829,25 +5829,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Collections.Specialized.wasm"
-    },
-    {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/h9xfr60nqi.gz",
-      "SourceId": "Demo",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/hefdkmidsz.gz",
@@ -6135,7 +6116,7 @@
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Diagnostics.TraceSource.wasm"
     },
     {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/j6py03p5au.gz",
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/jc05iayujo.gz",
       "SourceId": "Demo",
       "SourceType": "Computed",
       "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
@@ -6211,6 +6192,25 @@
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Runtime.InteropServices.wasm"
     },
     {
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/kaccsqf2qb.gz",
+      "SourceId": "Demo",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.11.kaccsqf2qb.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.11.kaccsqf2qb.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.11.kaccsqf2qb.js"
+    },
+    {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/kg46ice6cr.gz",
       "SourceId": "Demo",
       "SourceType": "Computed",
@@ -6228,6 +6228,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Runtime.Serialization.Xml.wasm"
+    },
+    {
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/kh7xq8rjaj.gz",
+      "SourceId": "Demo",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/ki9l0oqv7p.gz",
@@ -6572,44 +6591,6 @@
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/Microsoft.Extensions.Options.wasm"
     },
     {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/mf63k4zblg.gz",
-      "SourceId": "Demo",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
-    },
-    {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/mhvvd54qy1.gz",
-      "SourceId": "Demo",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm"
-    },
-    {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/mqm0nbdkwq.gz",
       "SourceId": "Demo",
       "SourceType": "Computed",
@@ -6779,44 +6760,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Text.Encoding.Extensions.wasm"
-    },
-    {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/obz4yc2kyn.gz",
-      "SourceId": "Demo",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js"
-    },
-    {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/ocbwy942f7.gz",
-      "SourceId": "Demo",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/ogyavnk9i2.gz",
@@ -7045,6 +6988,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Net.Primitives.wasm"
+    },
+    {
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/q0xdasn2q1.gz",
+      "SourceId": "Demo",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/q1otcnmm93.gz",
@@ -7294,25 +7256,6 @@
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.ServiceModel.Web.wasm"
     },
     {
-      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/tb00q2pnb8.gz",
-      "SourceId": "Demo",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.8.tb00q2pnb8.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.8.tb00q2pnb8.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.8.tb00q2pnb8.js"
-    },
-    {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/thl1rqru6p.gz",
       "SourceId": "Demo",
       "SourceType": "Computed",
@@ -7387,6 +7330,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Runtime.InteropServices.JavaScript.wasm"
+    },
+    {
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/u4dhoqivrh.gz",
+      "SourceId": "Demo",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/u4l1p7g4oi.gz",
@@ -7501,6 +7463,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Threading.Overlapped.wasm"
+    },
+    {
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/v4d3uixg8h.gz",
+      "SourceId": "Demo",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.11.v4d3uixg8h.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.11.v4d3uixg8h.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.11.v4d3uixg8h.js"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/v4f537d2ra.gz",
@@ -7786,6 +7767,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/Microsoft.VisualBasic.Core.wasm"
+    },
+    {
+      "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/z6nyvfsvmd.gz",
+      "SourceId": "Demo",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map"
     },
     {
       "Identity": "/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/zbosc0237a.gz",

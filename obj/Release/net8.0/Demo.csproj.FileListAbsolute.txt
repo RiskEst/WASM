@@ -4,9 +4,7 @@
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/Demo.wasm
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.8.fpgcnngikp.js
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.8.tb00q2pnb8.js
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.js.map
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat
@@ -291,7 +289,6 @@
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Reflection.Extensions.wasm.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.8.fpgcnngikp.js.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/mscorlib.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Components.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Security.AccessControl.wasm.gz
@@ -381,7 +378,6 @@
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Net.NetworkInformation.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Net.Security.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.ServiceModel.Web.wasm.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.8.tb00q2pnb8.js.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Reflection.Primitives.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Data.Common.wasm.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.wasm.gz
@@ -621,6 +617,7 @@
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/Demo.AssemblyInfo.cs
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/Demo.csproj.CoreCompileInputs.cache
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/Demo.MvcApplicationPartsAssemblyInfo.cache
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/Demo.sourcelink.json
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/webcil/Microsoft.AspNetCore.Authorization.wasm
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/webcil/Microsoft.AspNetCore.Components.wasm
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/webcil/Microsoft.AspNetCore.Components.Forms.wasm
@@ -1022,15 +1019,6 @@
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/g3ikmfzbi8.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/gthnkqorwz.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/68qnewprhp.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/obz4yc2kyn.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/h9xfr60nqi.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/fpgcnngikp.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/mhvvd54qy1.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/tb00q2pnb8.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/j6py03p5au.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/ocbwy942f7.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/7kejrno4wk.gz
-/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/mf63k4zblg.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/zt18242eg7.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/a0jxwfje19.gz
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/ousxif2ynp.gz
@@ -1039,3 +1027,16 @@
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/refint/Demo.dll
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/Demo.pdb
 /Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/ref/Demo.dll
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.11.kaccsqf2qb.js
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.11.v4d3uixg8h.js
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.11.kaccsqf2qb.js.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.11.v4d3uixg8h.js.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/ft0q3jcs6x.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/z6nyvfsvmd.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/kaccsqf2qb.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/u4dhoqivrh.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/v4d3uixg8h.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/jc05iayujo.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/kh7xq8rjaj.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/1jw4fav1yn.gz
+/Users/janine/ProZES-Online/Beispiele_Buch/Demo/obj/Release/net8.0/compressed/q0xdasn2q1.gz

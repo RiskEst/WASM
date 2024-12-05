@@ -16,10 +16,15 @@ on:
       uses: actions/setup-dotnet@v1
       with: 
         dotnet-version: 8.0
-        # publishes Blazor project to the release-folder
+        
+    # publishes Blazor project to the release-folder
+    - name: Install .NET WASM Build Tools
+      run: dotnet workload install wasm-tools
+        
     - name: Publish .NET Core Project
-      run: dotnet publish Demo.csproj -c Release -o release --nologo
-          - name: Commit wwwroot to GitHub Pages
+      run: dotnet publish Demo.csproj -c Release -p GHPages=true -o release --nologo
+      
+    - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

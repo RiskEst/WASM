@@ -1,0 +1,41 @@
+name: Build, Test, and Deploy
+
+# Run workflow on every push to the main branch
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  deploy-to-github-pages:
+    # Use ubuntu-latest image to run steps on
+    runs-on: ubuntu-latest
+
+    steps:
+      # Uses GitHub's checkout action to checkout code from the main branch
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Sets up .NET Core SDK
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      # Install .NET WASM Build Tools workload
+      - name: Install .NET WASM Build Tools
+        run: dotnet workload install wasm-tools
+
+      # Publishes Blazor project to the release-folder
+      - name: Publish .NET Core Project
+        run: dotnet publish Demo.csproj -c Release -p GHPages=true -o dist/Web --nologo
+
+      # Commit wwwroot to GitHub Pages
+      - name: Commit wwwroot to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          BRANCH: gh-pages
+          FOLDER: dist/Web/wwwroot
